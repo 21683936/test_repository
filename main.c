@@ -1,7 +1,7 @@
 /*
  * main.c
  *
- *  Created on: 2024/07/12
+ *  Created on: 2024/08/06
  *      Author: 21683936
  */
 #include<stdio.h>
