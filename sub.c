@@ -2,10 +2,9 @@
  * main.c
  *
  *  Created on: 2024/08/06
- *      Author: 21683936
+ *      Author: 21683936 from eclipse
  */
 #include<stdio.h>
-
 void sub(void){
   
 	int i;
