@@ -1,7 +1,7 @@
 /*
  * main.c
  *
- *  Created on: 2024/08/06
+ *  Created on: 2024/08/07
  *      Author: 21683936 from eclipse
  */
 #include<stdio.h>
